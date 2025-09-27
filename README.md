@@ -46,7 +46,7 @@ python main.py  # Wait 15 seconds for magic
 ```
 
 ## After Notes
-Don't let anyone hold you back, let your imagination run wild! (though maybe stick to the rules every once in a while)
+Don't let anyone hold you back, let your imagination run wild! (though maybe stick to the rules every once in a while) <br>
 #not-all-who-wander-are-lost
 
 <br>
