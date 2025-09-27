@@ -1,6 +1,8 @@
 
 # Enterprise-Grade Hello World ®
 
+## ❗️ Remember to download all the files or it will not run properly ❗️
+
 ## Overview 💪
 After years of R&D and billions in imaginary VC funding, I proudly announce that I've solved the complex problem of printing "Hello World!" using cutting-edge distributed architecture.
 
@@ -45,6 +47,7 @@ python main.py  # Wait 15 seconds for magic
 
 ## After Notes
 Don't let anyone hold you back, let your imagination run wild! (though maybe stick to the rules every once in a while)
+#not-all-who-wander-are-lost
 
 <br>
 
